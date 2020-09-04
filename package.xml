@@ -23,6 +23,7 @@
         <members>SiteLoginControllerTest</members>
         <members>SiteRegisterController</members>
         <members>SiteRegisterControllerTest</members>
+        <members>TestContactTrigger</members>
         <members>jiraMockHttpResponseGenerator</members>
         <name>ApexClass</name>
     </types>
@@ -52,6 +53,10 @@
         <members>Unauthorized</members>
         <members>UnderConstruction</members>
         <name>ApexPage</name>
+    </types>
+    <types>
+        <members>ContactTrigger</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>AppSwitcher</members>
@@ -155,6 +160,7 @@
         <members>Account.ChannelProgramName</members>
         <members>Account.Description</members>
         <members>Account.Fax</members>
+        <members>Account.Has_Primary_Contact__c</members>
         <members>Account.Industry</members>
         <members>Account.IsCustomerPortal</members>
         <members>Account.IsPartner</members>
@@ -465,6 +471,7 @@
         <members>Contact.HasOptedOutOfFax</members>
         <members>Contact.HomePhone</members>
         <members>Contact.IndividualId</members>
+        <members>Contact.Is_Primary__c</members>
         <members>Contact.Jigsaw</members>
         <members>Contact.LastCURequestDate</members>
         <members>Contact.LastCUUpdateDate</members>
