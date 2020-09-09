@@ -675,6 +675,16 @@
         <fullName>ChannelProgramName</fullName>
     </fields>
     <fields>
+        <fullName>DemoTestField__c</fullName>
+        <externalId>false</externalId>
+        <label>DemoTestField</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>

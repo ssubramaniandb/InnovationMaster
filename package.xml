@@ -158,6 +158,7 @@
         <members>Account.BillingAddress</members>
         <members>Account.ChannelProgramLevelName</members>
         <members>Account.ChannelProgramName</members>
+        <members>Account.DemoTestField__c</members>
         <members>Account.Description</members>
         <members>Account.Fax</members>
         <members>Account.Has_Primary_Contact__c</members>
