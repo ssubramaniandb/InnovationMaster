@@ -336,6 +336,14 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Alternate_Contact_Number__c</fullName>
+        <externalId>false</externalId>
+        <label>Alternate Contact Number</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>AssistantName</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
