@@ -460,6 +460,7 @@
         <members>ConsumptionSchedule.Type</members>
         <members>ConsumptionSchedule.UnitOfMeasure</members>
         <members>Contact.AccountId</members>
+        <members>Contact.Alternate_Contact_Number__c</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
         <members>Contact.Birthdate</members>
